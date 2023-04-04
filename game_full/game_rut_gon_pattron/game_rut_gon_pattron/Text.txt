@@ -1,0 +1,5 @@
+﻿1)class Point:
+-lưu giá trị: -1, 0, 1
+-0: chưa điền, -1: đã điền X, 1: đã điền O.
+
+method: 

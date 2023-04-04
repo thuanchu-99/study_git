@@ -1,0 +1,10 @@
+﻿  control.cpp
+D:\game_full\text_file_txt_ini\using_fstream\using_fstream\control.cpp(267,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\game_full\text_file_txt_ini\using_fstream\using_fstream\control.cpp(464,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\game_full\text_file_txt_ini\using_fstream\using_fstream\control.cpp(513,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\game_full\text_file_txt_ini\using_fstream\using_fstream\control.cpp(588,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\game_full\text_file_txt_ini\using_fstream\using_fstream\control.cpp(637,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\game_full\text_file_txt_ini\using_fstream\using_fstream\control.cpp(280,6): warning C4101: 'save_game': unreferenced local variable
+D:\game_full\text_file_txt_ini\using_fstream\using_fstream\control.cpp(35): warning C4715: 'Control::cmd_menu': not all control paths return a value
+D:\game_full\text_file_txt_ini\using_fstream\using_fstream\control.cpp(47): warning C4715: 'Control::cmd_table': not all control paths return a value
+  using_fstream.vcxproj -> D:\game_full\text_file_txt_ini\using_fstream\x64\Debug\using_fstream.exe

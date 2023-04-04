@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\game_full\Project1\Project1\Source.cpp(693,6): warning C4101: 'check_game': unreferenced local variable
+D:\game_full\Project1\Project1\Source.cpp(692,6): warning C4101: 'save_game': unreferenced local variable
+D:\game_full\Project1\Project1\Source.cpp(488): warning C4715: 'Control::cmd_menu': not all control paths return a value
+D:\game_full\Project1\Project1\Source.cpp(500): warning C4715: 'Control::cmd_table': not all control paths return a value
+D:\game_full\Project1\Project1\Source.cpp(417): warning C4715: 'Model::search': not all control paths return a value
+D:\game_full\Project1\Project1\Source.cpp(1011): warning C4715: 'View::mouse': not all control paths return a value
+Source.obj : error LNK2019: unresolved external symbol "public: void __cdecl Model::resetgame(void)" (?resetgame@Model@@QEAAXXZ) referenced in function "public: void __cdecl Control::runProgram(void)" (?runProgram@Control@@QEAAXXZ)
+D:\game_full\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 1 unresolved externals

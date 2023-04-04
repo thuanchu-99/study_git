@@ -1,0 +1,6 @@
+10
+1 2 3 4 5 6 7 8 9 10
+
+chu the thuan 12 12 8
+chu thi thu 11 11 7
+chu thu thu 10 10 6

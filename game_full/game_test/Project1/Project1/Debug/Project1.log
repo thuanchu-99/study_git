@@ -1,0 +1,12 @@
+﻿  control.cpp
+D:\game_full\game_test\Project1\Project1\control.cpp(240,6): warning C4101: 'check_game': unreferenced local variable
+D:\game_full\game_test\Project1\Project1\control.cpp(239,6): warning C4101: 'save_game': unreferenced local variable
+  main.cpp
+  model.cpp
+D:\game_full\game_test\Project1\Project1\model.cpp(63,16): warning C4018: '<': signed/unsigned mismatch
+D:\game_full\game_test\Project1\Project1\model.cpp(72,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\game_full\game_test\Project1\Project1\model.cpp(50): warning C4715: 'Model::search': not all control paths return a value
+D:\game_full\game_test\Project1\Project1\control.cpp(47): warning C4715: 'Control::cmd_table': not all control paths return a value
+D:\game_full\game_test\Project1\Project1\control.cpp(35): warning C4715: 'Control::cmd_menu': not all control paths return a value
+  Project1.vcxproj -> D:\game_full\game_test\Project1\Debug\Project1.exe
